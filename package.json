@@ -1,0 +1,23 @@
+{
+    "name": "red-riptide-theme-dark",
+    "displayName": "red-riptide-theme-dark",
+    "description": "A dark color theme for my team.",
+    "version": "0.0.1",
+    "publisher": "Riptide",
+    "icon": "./",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Red riptide dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Red riptide dark theme-color-theme.json"
+            }
+        ]
+    }
+}
