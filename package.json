@@ -4,10 +4,14 @@
     "description": "A dark color theme for my team.",
     "version": "0.0.1",
     "publisher": "Riptide",
-    "icon": "./",
     "engines": {
-        "vscode": "^1.54.0"
+        "vscode": "^1.20.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/red-riptide/red-riptide-theme-dark"
+    },
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
