@@ -28,7 +28,12 @@
             {
                 "label": "Red Riptide Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Red riptide dark theme-color-theme.json"
+                "path": "./themes/dark-color-theme.json"
+            },
+            {
+                "label": "Red Riptide Gray Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gray-color-theme.json"
             }
         ]
     },

@@ -2,7 +2,7 @@
 
 ## About this theme
 
-This is an internal used color theme for me.
+Internal used color themes for me.
 
 ## Srceenshots
 
