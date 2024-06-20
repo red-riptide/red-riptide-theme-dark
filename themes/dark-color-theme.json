@@ -41,7 +41,7 @@
       "editorLineNumber.activeForeground": "#737984",
       "editorLineNumber.foreground": "#3f3f40",
       "editorMarkerNavigation.background": "#1f2021",
-      "editorRuler.foreground": "#abb2bf26",
+      //"editorRuler.foreground": "#0059ff26",
       "editorSuggestWidget.background": "#1f2021",
       "editorSuggestWidget.border": "#404040",
       "editorSuggestWidget.selectedBackground": "#303035",
@@ -888,7 +888,7 @@
             "keyword.other.substitution.begin"
          ],
          "settings": {
-            "foreground": "#C87F00"
+            "foreground": "#c87f00c1"
          }
       },
       {
@@ -1540,7 +1540,7 @@
       {
          "scope": "control.elements, keyword.operator.less",
          "settings": {
-            "foreground": "#D8985F"
+            "foreground": "#d1b093"
          }
       },
       {
@@ -1597,7 +1597,7 @@
             "variable.function"
          ],
          "settings": {
-            "foreground": "#409040"
+            "foreground": "#609060"
          }
       },
       {
@@ -1615,7 +1615,7 @@
       {
          "scope": "import.storage.java",
          "settings": {
-            "foreground": "#60A0E0"
+            "foreground": "#60a0e096"
          }
       },
       {
@@ -1925,7 +1925,7 @@
             "storage.type.object.array.java"
          ],
          "settings": {
-            "foreground": "#C88000"
+            "foreground": "#bb9966"
          }
       },
       {
