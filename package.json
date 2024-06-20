@@ -2,7 +2,7 @@
     "name": "red-riptide-theme-dark",
     "displayName": "Red Riptide Theme Dark",
     "description": "A dark color theme.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "Riptide",
     "engines": {
         "vscode": "^1.20.0"
