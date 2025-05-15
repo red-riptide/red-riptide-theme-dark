@@ -28,6 +28,8 @@
       "editor.wordHighlightStrongBorder": "#404040",
       "editorBracketMatch.background": "#3f4041",
       "editorBracketMatch.border": "#3f4041",
+      "editorInlayHint.background": "#00000000",
+      "editorInlayHint.foreground": "#404040",
       "editorCursor.background": "#ffffffc9",
       "editorCursor.foreground": "#ffffff",
       "editorError.foreground": "#c24038",
@@ -38,10 +40,10 @@
       "editorHoverWidget.border": "#404040",
       "editorIndentGuide.activeBackground1": "#c8c8c840",
       "editorIndentGuide.background1": "#1f2021",
-      "editorLineNumber.activeForeground": "#737984",
-      "editorLineNumber.foreground": "#3f3f40",
+      "editorLineNumber.activeForeground": "#ffffff2a",
+      "editorLineNumber.foreground": "#ffffff1a",
       "editorMarkerNavigation.background": "#1f2021",
-      //"editorRuler.foreground": "#0059ff26",
+      "editorRuler.foreground": "#0059ff26",
       "editorSuggestWidget.background": "#1f2021",
       "editorSuggestWidget.border": "#404040",
       "editorSuggestWidget.selectedBackground": "#303035",
@@ -50,12 +52,12 @@
       "editorWidget.background": "#1f2021",
       "focusBorder": "#404040",
       "input.background": "#151516",
-      "list.activeSelectionBackground": "#202020",
+      "list.activeSelectionBackground": "#ffffff1a",
       "list.activeSelectionForeground": "#d7dae0",
       "list.focusBackground": "#383e4a",
       "list.highlightForeground": "#c5c5c5",
       "list.hoverBackground": "#292d35",
-      "list.inactiveSelectionBackground": "#303035",
+      "list.inactiveSelectionBackground": "#ffffff1a",
       "list.inactiveSelectionForeground": "#d7dae0",
       "list.warningForeground": "#d19a66",
       "menu.background": "#101013",
@@ -542,7 +544,7 @@
       {
          "scope": "comment, punctuation.definition.comment",
          "settings": {
-            "foreground": "#606060",
+            "foreground": "#404040",
             "fontStyle": ""
          }
       },
@@ -620,7 +622,7 @@
             "beginning.punctuation.definition.list.markdown.xi"
          ],
          "settings": {
-            "foreground": "#606060"
+            "foreground": "#404040"
          }
       },
       {
@@ -2004,7 +2006,7 @@
       {
          "scope": "comment markup.link",
          "settings": {
-            "foreground": "#646464"
+            "foreground": "#484848"
          }
       },
       {
@@ -2112,21 +2114,21 @@
       {
          "scope": "comment.line.double-slash,comment.block.documentation",
          "settings": {
-            "foreground": "#606060",
+            "foreground": "#404040",
             "fontStyle": ""
          }
       },
       {
          "scope": "keyword.other.documentation",
          "settings": {
-            "foreground": "#606060",
+            "foreground": "#404040",
             "fontStyle": ""
          }
       },
       {
          "scope": "keyword.other.documentation",
          "settings": {
-            "foreground": "#606060",
+            "foreground": "#404040",
             "fontStyle": ""
          }
       },

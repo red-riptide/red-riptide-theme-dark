@@ -17,7 +17,7 @@
 		"editor.findMatchBorder": "#457dff",
 		"editor.findMatchHighlightBackground": "#314365F0",
 		"editor.foreground": "#ababab",
-		"editor.lineHighlightBackground": "#303030",
+		"editor.lineHighlightBackground": "#ffffff08",
 		"editor.selectionBackground": "#67769660",
 		"editor.selectionHighlightBackground": "#00000090",
 		"editor.selectionHighlightBorder": "#999999",
@@ -37,8 +37,8 @@
 		"editorHoverWidget.border": "#404040",
 		"editorIndentGuide.activeBackground1": "#c8c8c840",
 		"editorIndentGuide.background1": "#303030",
-		"editorLineNumber.activeForeground": "#737984",
-		"editorLineNumber.foreground": "#495162",
+      "editorLineNumber.activeForeground": "#ffffff2a",
+      "editorLineNumber.foreground": "#ffffff1a",
 		"editorMarkerNavigation.background": "#202020",
 		"editorRuler.foreground": "#abb2bf26",
 		"editorSuggestWidget.background": "#303030",
@@ -49,16 +49,16 @@
 		"editorWidget.background": "#303030",
 		"focusBorder": "#404040",
 		"input.background": "#1d1f23",
-		"list.activeSelectionBackground": "#303035",
+		"list.activeSelectionBackground": "#ffffff1a",
 		"list.activeSelectionForeground": "#d7dae0",
 		"list.focusBackground": "#383e4a",
 		"list.highlightForeground": "#c5c5c5",
 		"list.hoverBackground": "#292d35",
-		"list.inactiveSelectionBackground": "#303035",
+		"list.inactiveSelectionBackground": "#ffffff1a",
 		"list.inactiveSelectionForeground": "#d7dae0",
 		"list.warningForeground": "#d19a66",
-		"menu.background": "#000000",
-		"menu.foreground": "#c8c8c8",
+      "menu.background": "#101013",
+      "menu.foreground": "#808080",
 		"peekViewEditor.background": "#1b1d23",
 		"peekViewEditor.matchHighlightBackground": "#29244b",
 		"peekViewResult.background": "#22262b",
@@ -542,7 +542,7 @@
       {
          "scope": "comment, punctuation.definition.comment",
          "settings": {
-            "foreground": "#606060",
+            "foreground": "#404040",
             "fontStyle": ""
          }
       },
@@ -2112,7 +2112,7 @@
       {
          "scope": "comment.line.double-slash,comment.block.documentation",
          "settings": {
-            "foreground": "#606060",
+            "foreground": "#404040",
             "fontStyle": ""
          }
       },
