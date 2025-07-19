@@ -1595,8 +1595,7 @@
             "scope": [
                 "entity.name.function",
                 "meta.require",
-                "support.function.any-method",
-                "variable.function"
+                "support.function.any-method"
             ],
             "settings": {
                 "foreground": "#609060"
@@ -1641,7 +1640,7 @@
         {
             "scope": "variable.parameter",
             "settings": {
-                "foreground": "#90B090"
+                "foreground": "#808080"
             }
         },
         {
@@ -2121,7 +2120,7 @@
         {
             "scope": "keyword.other.documentation",
             "settings": {
-                "foreground": "#555555",
+                "foreground": "#505050",
                 "fontStyle": ""
             }
         },

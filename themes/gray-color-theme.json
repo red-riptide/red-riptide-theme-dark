@@ -1639,7 +1639,7 @@
         {
             "scope": "variable.parameter",
             "settings": {
-                "foreground": "#90B090"
+                "foreground": "#808080"
             }
         },
         {
